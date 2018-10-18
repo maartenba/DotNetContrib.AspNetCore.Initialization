@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loading...</title>
+    <style>
+        body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif }
+    </style>
+    <script>
+        setTimeout(function() {
+            location.reload(true);
+        }, 2500);
+    </script>
+</head>
+<body>
+<div style="text-align: center;">
+    <img src="loading.svg" />
+</div>
+<div style="text-align: center;">
+    <h1>Loading...</h1>
+    <h2>{InitializationContext.Status.Message}</h2>
+</div>
+</body>
+</html>

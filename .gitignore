@@ -1,0 +1,14 @@
+msbuild.log
+_ReSharper.*
+packages/
+artifacts/
+obj/
+bin/
+.vs/
+*.suo
+*.user
+project.lock.json
+
+riderModule.iml
+workspace.xml
+contentModel.xml
