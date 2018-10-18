@@ -5,9 +5,9 @@
         <LangVersion>7.3</LangVersion>
         <PackageId>DotNetContrib.AspNetCore.Initialization</PackageId>
         <Authors>Maarten Balliauw</Authors>
-        <Description>TODO</Description>
+        <Description>Add initialization tasks and an optional splash screen to ASP.NET Core web applications.</Description>
         <Copyright>Maarten Balliauw</Copyright>
-        <PackageTags>TODO</PackageTags>
+        <PackageTags>aspnet core aspnetcore web splash startup initialization</PackageTags>
         <PackageProjectUrl>https://github.com/maartenba/DotNetContrib.AspNetCore.Initialization</PackageProjectUrl>
         <RepositoryUrl>https://github.com/maartenba/DotNetContrib.AspNetCore.Initialization</RepositoryUrl>
         <PackageLicenseUrl>https://raw.githubusercontent.com/maartenba/DotNetContrib.AspNetCore.Initialization/master/LICENSE.md</PackageLicenseUrl>
